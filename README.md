@@ -2,7 +2,7 @@
 
 UI Challenge - Movies App
 
-https://github.com/mbcorona/flutter_movies/assets/14170258/5d849121-97e3-41d8-86ae-3974a1f1215e
+https://github.com/Jaideep25-tech/flutter_movies/assets/79747022/b4979e63-711c-4a97-934d-609bc39c9bc0
 
 
 A few resources to get you started if this is your first Flutter project:
