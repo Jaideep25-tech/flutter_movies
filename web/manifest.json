@@ -1,6 +1,6 @@
 {
-    "name": "dummy",
-    "short_name": "dummy",
+    "name": "flutter_movies",
+    "short_name": "flutter_movies",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
